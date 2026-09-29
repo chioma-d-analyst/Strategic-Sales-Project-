@@ -41,4 +41,4 @@ I developed this Power BI project from scratch. The work included:
 
 ## Dashboard Preview
 
-[View the Dashboard PDF](YOUR-PDF-FILE-NAME.pdf)
+STRATEGIC SALES PROJECT.pdf
