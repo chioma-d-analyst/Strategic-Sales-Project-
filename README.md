@@ -41,4 +41,4 @@ I developed this Power BI project from scratch. The work included:
 
 ## Dashboard Preview
 
-STRATEGIC SALES PROJECT.pdf
+https://github.com/chioma-d-analyst/Strategic-Sales-Project-/blob/main/STRATEGIC%20SALES%20PROJECT.pdf
