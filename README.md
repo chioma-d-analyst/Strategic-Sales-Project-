@@ -11,6 +11,7 @@ The dashboard provides a clear view of sales performance and key business metric
 - Microsoft Power BI
 - Power Query
 - DAX
+- Microsoft excel
   
 
 ## Project Work
